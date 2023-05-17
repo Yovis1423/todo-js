@@ -1,7 +1,7 @@
 {
   "name": "webpack-inicial",
   "version": "1.0.0",
-  "description": "Este es un cascaron de u7n proyecto web",
+  "description": "Este es un cascaron de un proyecto web",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
